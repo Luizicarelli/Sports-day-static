@@ -1,5 +1,5 @@
 {
-  "name": "front-end-static",
+  "name": "sports-day-static",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teacherIan/front-end-static.git"
+    "url": "git+https://github.com/Luizicarelli/Sports-day-static.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/teacherIan/front-end-static/issues"
+    "url": "https://github.com/Luizicarelli/Sports-day-static/issues"
   },
-  "homepage": "https://github.com/teacherIan/front-end-static#readme",
+  "homepage": "https://github.com/Luizicarelli/Sports-day-static#readme",
   "dependencies": {
     "firebase": "^9.22.1"
   },
